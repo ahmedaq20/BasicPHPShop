@@ -1,0 +1,10 @@
+database
+name>>online
+utf8_unicode_ci 
+*******************************************
+table prodact
+id (pr)
+name
+price
+image
+********************************************* 
